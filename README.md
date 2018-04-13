@@ -1,4 +1,4 @@
-#用 hexo 搭建博客
+# 用 hexo 搭建博客
 
 ## 安装[hexo](https://hexo.io/)
 
