@@ -1,6 +1,4 @@
----
-title: 用hexo搭建博客
----
+#用 hexo 搭建博客
 
 ## 安装[hexo](https://hexo.io/)
 
@@ -16,7 +14,7 @@ $ hexo server
 
 ```
 $ git clone https://github.com/tufu9441/maupassant-hexo.git themes/maupassant
-// 注意：node-sass 下载建议使用 cnpm
+// 注意：建议使用 cnpm
 $ npm install hexo-renderer-jade --save
 $ npm install hexo-renderer-sass --save
 ```
